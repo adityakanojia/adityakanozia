@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityakanojia
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on ML and Full stack projects
 - 📫 How to reach me ... Email - kanojiaaditya800@gmail.com, ph no. - +91 9667369447
 
 <!---
