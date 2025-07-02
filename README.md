@@ -27,7 +27,7 @@ I'm passionate about creating scalable and performant applications from end to e
 ---
 
 ### 🎯 Gaming Stats:
-- 🔥 **Favorite Games**: Valorant, Elden Ring, Minecraft, CS:GO
+- 🔥 **Favorite Games**: Ghost of tshuchima, The witcher 3: wild hunt, Assassin's Creed - vallhala, CS:GO
 - 🎖️ **Achievement Unlocked**: 1000+ Hours gaming & coding balanced!
 - 🕹️ **Always up for a match** — ping me for a gaming session!
 
